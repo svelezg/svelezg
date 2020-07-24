@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [](https://github.com/svelezg/svelezg/blob/master/animation.gif "Animation")
+[](https://github.com/svelezg/svelezg/blob/master/animation.gif)
 
 <!--
 **svelezg/svelezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
