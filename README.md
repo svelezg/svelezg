@@ -1,7 +1,5 @@
 ### Hello, I'm Santiago
 
-<img src="https://github.com/svelezg/svelezg/blob/master/animation.gif" width="250" height="250"/>
-
 
 I'm a nonconventional Machine Learning Engineer :bowtie:. I transitioned from the International Plant Engineering space where I spend 8+ years in tendering, project management, and business development. I believe, truly amazing things are achieved not by isolated individuals but by motivated and focused teams. I like to read both fictional and non-fictional, and also love languages and cultures :us: :de: :it: :fr:. 
 
